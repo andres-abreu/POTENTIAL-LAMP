@@ -1,2 +1,2 @@
-# POTENTIAL-LAMP
+# :POTENTIAL-LAMP.
 :Horiseon-refactoring-project.
