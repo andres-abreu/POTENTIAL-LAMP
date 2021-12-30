@@ -8,9 +8,3 @@ https://andres-abreu.github.io/POTENTIAL-LAMP/
 
 :REASON.
 For the Horiseon-project requested a refactor for their codes in which should show a systematic outline of thier sections wih consolidations.
-
-<<<<<<< HEAD
-![POTENTIAL-LAMP-HORISEON_screen-shot](https://user-images.githubusercontent.com/94572199/147393715-9681c44e-8a2d-440f-8d52-7f13383f74fa.png)
-=======
-![POTENTIAL-LAMP-HORISEON_screen-shot](https://user-images.githubusercontent.com/94572199/147393715-9681c44e-8a2d-440f-8d52-7f13383f74fa.png)
->>>>>>> ae680661514bd3ac79c7f69d180202ae3b30d321
