@@ -15,10 +15,10 @@
 ![potential-lamp_Horiseon-screen-shot 12 52 28 PM](https://user-images.githubusercontent.com/94572199/147714173-8b6a7d1c-100e-4742-a4c6-b5fae09f0dfc.png)
 
 ## REPOSITORY-LINK
-https://github.com/andres-abreu/POTENTIAL-LAMP
+https://github.com/andres-abreu/potential-lamp
 
 ## GIT-PAGES-URL-LAUNCH-LINK
-https://andres-abreu.github.io/POTENTIAL-LAMP/
+https://andres-abreu.github.io/potential-lamp/
 
 <div id="badges">
   <br/>
